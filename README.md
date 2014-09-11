@@ -6,6 +6,5 @@ Optional Features:
 	Added spliting the total amount into shares.
 	Added updation of value on change in the amount.
 Notes: 
-	Still working on stabilizing some features on settings page
+	Still working on stabilizing some features on settings pae
 	Show and hide shares option not functional
-============
